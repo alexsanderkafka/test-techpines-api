@@ -9,7 +9,7 @@
 - Docker
 
 ## DER - Diagrama de entidade relacional
-![der]()
+![der](https://github.com/alexsanderkafka/test-techpines-api/blob/main/assets/der.png)
 
 ##
 
